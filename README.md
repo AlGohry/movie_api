@@ -1,4 +1,4 @@
-# Play Show - API - The Movie Database (TMDb)
+# Play Show - API - The Movie Database (TMDb)📽️
 A project aimed at showcasing the latest movies and TV series through a real API from The Movie Database (TMDb)
 
 
