@@ -1,4 +1,4 @@
-const apiKey = '491da0b821e8330e3fe3936aa43889c8';
+const apiKey = 'YOUR_API_KEY';
 
 // TMDb configuration endpoint URL
 const apiUrl = `https://api.themoviedb.org/3/configuration?api_key=${apiKey}`;
